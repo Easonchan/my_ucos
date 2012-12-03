@@ -2,3 +2,13 @@
 	mysql -h local -u root -p
 2.quit
 	exit
+3.show database
+	SHOW DATABASES;
+4.create database
+	CREATE DATABASE dynatek;
+5.into database
+	USE dynatek;
+6.show table
+	SHOW TABLES;
+
+	
