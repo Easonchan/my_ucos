@@ -1,0 +1,4 @@
+1.login
+	mysql -h local -u root -p
+2.quit
+	exit
